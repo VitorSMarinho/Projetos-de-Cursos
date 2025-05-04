@@ -72,5 +72,5 @@ Exemplo:
 ## 🙋‍♂️ Autor
 
 **Seu Nome**  
-[GitHub](https://github.com/seu-usuario) • [LinkedIn](https://linkedin.com/in/seu-usuario)
+[GitHub](https://github.com/VitorSMarinho) • [LinkedIn](https://www.linkedin.com/in/vitor-marinho/)
 
