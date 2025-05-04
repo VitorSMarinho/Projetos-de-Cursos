@@ -10,11 +10,9 @@ https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-po
 ## 📸 Capturas de Tela
 Imagens disponíveis na pasta `/images`, incluindo:
 
-- Login no portal
 - Seleção de recurso
 - Configurações básicas da VM
 - Escolha da imagem e tamanho
-- Configurações de rede e disco
 - Tela de revisão e criação
 
 ## 🛠️ Configuração Simulada
@@ -22,7 +20,7 @@ Imagens disponíveis na pasta `/images`, incluindo:
 | Parâmetro         | Valor                      |
 |-------------------|----------------------------|
 | Sistema Operacional | Windows 11 Pro            |
-| Região             | Brazil South               |
+| Região             | East US              |
 | Tamanho da VM      | B1s (grátis elegível)      |
 | Autenticação       | Usuário e senha            |
 | Disco OS           | SSD padrão (128 GB)        |
